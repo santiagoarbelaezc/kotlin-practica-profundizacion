@@ -134,14 +134,15 @@ Copia el código en: [https://play.kotlinlang.org/](https://play.kotlinlang.org/
 ---
 
 ## 👨‍💻 **Desarrolladores**
-
-<div align="center">
-
 ---
 **Juan David Gutierrez**
 ---
 **Eliana Hernandez Ortiz**
 ---
+
+<div align="center">
+
+
 
 **Santiago Arbelaez Contreras**  
 Junior Full Stack Developer  
@@ -168,3 +169,4 @@ Estudiante de Ingeniería de Sistemas – Universidad del Quindío
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=90&section=footer&animation=fadeIn" />
 </div>
+
